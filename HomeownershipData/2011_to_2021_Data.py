@@ -55,31 +55,30 @@ owner,$60000 to $79999,45 to 54 years old,2421,2011
 owner,$60000 to $79999,55 to 64 years old,2403,2011
 owner,$60000 to $79999,65 to 74 years old,1235,2011
 owner,$60000 to $79999,75 years old and over,642,2011
-owner,$80,000 to $99999,Under 25 years old,63,2011
-owner,$80,000 to $99999,25 to 29 years old,408,2011
-owner,$80,000 to $99999,30 to 34 years old,744,2011
-owner,$80,000 to $99999,35 to 44 years old,1655,2011
-owner,$80,000 to $99999,45 to 54 years old,2124,2011
-owner,$80,000 to $99999,55 to 64 years old,1867,2011
-owner,$80,000 to $99999,65 to 74 years old,728,2011
-owner,$80,000 to $99999,75 years old and over,375,2011
-owner,$100,000 to $119,999,Under 25 years old,32,2011
-owner,$100,000 to $119,999,25 to 29 years old,239,2011
-owner,$100,000 to $119,999,30 to 34 years old,545,2011
-owner,$100,000 to $119,999,35 to 44 years old,1353,2011
-owner,$100,000 to $119,999,45 to 54 years old,1702,2011
-owner,$100,000 to $119,999,55 to 64 years old,1340,2011
-owner,$100,000 to $119,999,65 to 74 years old,433,2011
-owner,$100,000 to $119,999,75 years old and over,212,2011
-owner,$120,000 or more,Under 25 years old,15,2011
-owner,$120,000 or more,25 to 29 years old,262,2011
-owner,$120,000 or more,30 to 34 years old,1020,2011
-owner,$120,000 or more,35 to 44 years old,3283,2011
-owner,$120,000 or more,45 to 54 years old,4224,2011
-owner,$120,000 or more,55 to 64 years old,3148,2011
-owner,$120,000 or more,65 to 74 years old,954,2011
-owner,$120,000 or more,75 years old and over,389,2011
-owner,income_range,age_group,total,year
+owner,$80000 to $99999,Under 25 years old,63,2011
+owner,$80000 to $99999,25 to 29 years old,408,2011
+owner,$80000 to $99999,30 to 34 years old,744,2011
+owner,$80000 to $99999,35 to 44 years old,1655,2011
+owner,$80000 to $99999,45 to 54 years old,2124,2011
+owner,$80000 to $99999,55 to 64 years old,1867,2011
+owner,$80000 to $99999,65 to 74 years old,728,2011
+owner,$80000 to $99999,75 years old and over,375,2011
+owner,$100000 to $119999,Under 25 years old,32,2011
+owner,$100000 to $119999,25 to 29 years old,239,2011
+owner,$100000 to $119999,30 to 34 years old,545,2011
+owner,$100000 to $119999,35 to 44 years old,1353,2011
+owner,$100000 to $119999,45 to 54 years old,1702,2011
+owner,$100000 to $119999,55 to 64 years old,1340,2011
+owner,$100000 to $119999,65 to 74 years old,433,2011
+owner,$100000 to $119999,75 years old and over,212,2011
+owner,$120000 or more,Under 25 years old,15,2011
+owner,$120000 or more,25 to 29 years old,262,2011
+owner,$120000 or more,30 to 34 years old,1020,2011
+owner,$120000 or more,35 to 44 years old,3283,2011
+owner,$120000 or more,45 to 54 years old,4224,2011
+owner,$120000 or more,55 to 64 years old,3148,2011
+owner,$120000 or more,65 to 74 years old,954,2011
+owner,$120000 or more,75 years old and over,389,2011
 renter,Less than $10000,Under 25 years old,1213,2011
 renter,Less than $10000,25 to 29 years old,754,2011
 renter,Less than $10000,30 to 34 years old,673,2011
@@ -712,14 +711,14 @@ owner,$120000 or more,45 to 54 years old,5984,2019
 owner,$120000 or more,55 to 64 years old,5450,2019
 owner,$120000 or more,65 to 74 years old,2269,2019
 owner,$120000 or more,75 years old and over,853,2019
-renter,Less than $10,000,Under 25 years old,599,2019
-renter,Less than $10,000,25 to 29 years old,495,2019
-renter,Less than $10,000,30 to 34 years old,460,2019
-renter,Less than $10,000,35 to 44 years old,831,2019
-renter,Less than $10,000,45 to 54 years old,887,2019
-renter,Less than $10,000,55 to 64 years old,1154,2019
-renter,Less than $10,000,65 to 74 years old,903,2019
-renter,Less than $10,000,75 years old and over,769,2019
+renter,Less than $10000,Under 25 years old,599,2019
+renter,Less than $10000,25 to 29 years old,495,2019
+renter,Less than $10000,30 to 34 years old,460,2019
+renter,Less than $10000,35 to 44 years old,831,2019
+renter,Less than $10000,45 to 54 years old,887,2019
+renter,Less than $10000,55 to 64 years old,1154,2019
+renter,Less than $10000,65 to 74 years old,903,2019
+renter,Less than $10000,75 years old and over,769,2019
 renter,$10000 to $19999,Under 25 years old,471,2019
 renter,$10000 to $19999,25 to 29 years old,360,2019
 renter,$10000 to $19999,30 to 34 years old,407,2019
@@ -792,7 +791,6 @@ renter,$120000 or more,45 to 54 years old,912,2019
 renter,$120000 or more,55 to 64 years old,517,2019
 renter,$120000 or more,65 to 74 years old,185,2019
 renter,$120000 or more,75 years old and over,69,2019
-homeownership,income,age,total,year
 owner,Less than $10000,Under 25 years old,42,2021
 owner,Less than $10000,25 to 29 years old,50,2021
 owner,Less than $10000,30 to 34 years old,109,2021
