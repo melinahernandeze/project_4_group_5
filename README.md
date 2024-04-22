@@ -3,7 +3,7 @@
 ## README
 
 ### Introduction
-This repository contains SQL scripts and Python code to import, analyze, and model American Housing Survey (AHS) data. The data is sourced from the [U.S. Census Bureau's AHS Table Creator](https://www.census.gov/programs-surveys/ahs/data/interactive/ahstablecreator.html), focusing on the year 2021.
+This repository contains SQL scripts and Python code to import, analyze, and model American Housing Survey (AHS) data. The data is sourced from the [U.S. Census Bureau's AHS Table Creator](https://www.census.gov/programs-surveys/ahs/data/interactive/ahstablecreator.html), focusing on the years 2011 to 2021.
 
 ### Setup
 To replicate the analysis, follow these steps:
